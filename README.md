@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=250&section=header&text=Robotics%20engineer%20building%20robots&desc=to%20move,%20see,%20and%20think.&fontColor=88FA1D&fontSize=40&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=Robotics%20engineer%20building%20robots&desc=to%20move,%20see,%20and%20think.&fontColor=88FA1D&fontSize=40&descAlignY=200)
 
 ### 👋 About me
 - Hi, This is **@its-seon!**
