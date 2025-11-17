@@ -1,10 +1,5 @@
-<!--header-->
-<div>
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Robotics%20engineer%20building%20robots&desc=to%20move,%20see,%20and%20think.&fontColor=88FA1D&fontSize=40)
-</div>
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Robotics%20engineer%20building%20robots&desc=How%20to%20move,%20see,%20and%20think.&fontColor=88FA1D&fontSize=40)
 
-<!--body-->
-<div>
 ### 👋 About me
 - Hi, This is @its-seon!
 - I design and build robots from prototype to real-world deployment.
@@ -18,4 +13,3 @@
 ### 🚀 Careers
 - **Research Engineer** at SL Corporation, [**Algorithm Development Team**](https://www.slworld.com) (2024.07 ~ Current)
 - **Freelancer** at Yeollim, [**SW Development Team**](https://yeollim.com) (2022.07 ~ 2022.11)
-<div>
