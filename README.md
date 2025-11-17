@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Robotics%20engineer%20building%20robots&desc=How%20to%20move,%20see,%20and%20think.&fontColor=88FA1D&fontSize=40)
 
 ### 👋 About me
-- Hi, This is @its-seon!
+- Hi, This is **@its-seon!**
 - I design and build robots from prototype to real-world deployment.
 - Interested in LiDAR Perception, SLAM, and Autonomous systems.
 
