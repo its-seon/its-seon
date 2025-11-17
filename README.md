@@ -6,9 +6,9 @@
 - Interested in LiDAR Perception, SLAM, and Autonomous systems.
 
 ### 🎓 Education
-- **B.S in Industrial Engineering** from Gachon University, Gyeonggi-do, South Korea (2018.03 ~ 2025.02)
-- **B.S in School of Computing (Double Major)** from Gachon University, Gyeonggi-do, South Korea (2018.03 ~ 2025.02)
-- **Undergraduate Researcher** at [**iRASC**](https://sites.google.com/view/irasc/home) from Gachon University, Gyeonggi-do, South Korea (2022.12 ~ 2024.07)
+- **B.S in Industrial Engineering** from Gachon University, South Korea (2018.03 ~ 2025.02)
+- **B.S in School of Computing (Double Major)** from Gachon University, South Korea (2018.03 ~ 2025.02)
+- **Undergraduate Researcher** at [**iRASC**](https://sites.google.com/view/irasc/home) from Gachon University, South Korea (2022.12 ~ 2024.07)
 
 ### 🚀 Careers
 - **Research Engineer** at [**SL Corporation**](https://www.slworld.com), [**Algorithm Development Team**] (2024.07 ~ Current)
