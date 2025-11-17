@@ -8,8 +8,8 @@
 ### 🎓 Education
 - **B.S in Industrial Engineering** from Gachon University, Gyeonggi-do, South Korea (2018.03 ~ 2025.02)
 - **B.S in School of Computing (Double Major)** from Gachon University, Gyeonggi-do, South Korea (2018.03 ~ 2025.02)
-- **Undergraduate Researcher** at [**iRASC**](https://www.slworld.com) from Gachon University, Gyeonggi-do, South Korea (2022.12 ~ 2024.07)
+- **Undergraduate Researcher** at [**iRASC**](https://sites.google.com/view/irasc/home) from Gachon University, Gyeonggi-do, South Korea (2022.12 ~ 2024.07)
 
 ### 🚀 Careers
-- **Research Engineer** at SL Corporation, [**Algorithm Development Team**](https://www.slworld.com) (2024.07 ~ Current)
-- **Freelancer** at Yeollim, [**SW Development Team**](https://yeollim.com) (2022.07 ~ 2022.11)
+- **Research Engineer** at SL Corporation(https://www.slworld.com), [**Algorithm Development Team**] (2024.07 ~ Current)
+- **Freelancer** at Yeollim(https://yeollim.com), [**SW Development Team**] (2022.07 ~ 2022.11)
