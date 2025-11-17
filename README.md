@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&fontColor=88FA1D&height=300&section=header&text=Good%20to%20see%20you-nl-%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Robotics%20engineer%20building%20robots&desc=How%20to%20move,%20see,%20and%20think.&fontColor=88FA1D)
